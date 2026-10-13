@@ -1,0 +1,872 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "28dd7c577f40a182f67005e71e1b4393"
+    },
+    {
+        "path": "a-complete-guide-to-choosing-furniture-upholstery.html",
+        "type": "file",
+        "md5": "5adeaacb715d4602bbda45aef9540611"
+    },
+    {
+        "path": "a-defining-feature-of-contemporary-bedrooms.html",
+        "type": "file",
+        "md5": "d8f7050842dc0f1cd9797cbdfade9e61"
+    },
+    {
+        "path": "a-practical-guide-to-selecting-quality-wood-furniture.html",
+        "type": "file",
+        "md5": "6e917605c80820341191e3f09451ccb3"
+    },
+    {
+        "path": "a-smart-guide-to-choosing-furniture-for-every-room.html",
+        "type": "file",
+        "md5": "193573ca2e859b07e722acd909a949e0"
+    },
+    {
+        "path": "about-us.html",
+        "type": "file",
+        "md5": "647b1dae04468c682be8a36e246c1465"
+    },
+    {
+        "path": "an-essential-category-of-contemporary-bedrooms.html",
+        "type": "file",
+        "md5": "11c433fee947a98c9e3d8358dfe4e547"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "85514f933f9e0b82460af63f1a403fa5"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "7abfb28a4e64cfb459274856301e8bd3"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "4d806e68f114f2f853df749737f83210"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "1d85deb2c27be8b269021c3f4043467e"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "08add7f6d435054ad38ec38d7cf8be40"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "cbdaf7c20ac2883c77ae23acfbabd47e"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "7d09abecdcbd61d9f7eed02ad7ed9f3e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "12129ae64db69ed98868da86ad4542b6"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "49db3589f7cc4e2c2fbd61073450b881"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "1183f80a7de1312c6aaed6cb2040d26b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "f4242a99ea504fbf8ddefb40c853de4d"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "de8cf878500c5ec452ae912ddb9c7aaa"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.ttf",
+        "type": "file",
+        "md5": "d38445641a866e80bccf9cb4c4a03de8"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.woff2",
+        "type": "file",
+        "md5": "5f14f683621dbaf2d3644848b74c5a7f"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/oliver-reed",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oliver-reed/index.html",
+        "type": "file",
+        "md5": "9718ffa84442ac25b7dfafb472e914f4"
+    },
+    {
+        "path": "authors/oliver-reed/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/oliver-reed/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oliver-reed/page/2/index.html",
+        "type": "file",
+        "md5": "b36856c461b3732795e306f59beb6dc6"
+    },
+    {
+        "path": "contact-us.html",
+        "type": "file",
+        "md5": "49608b40885734029792006b7f9cdfcf"
+    },
+    {
+        "path": "creating-a-refined-look-in-contemporary-bedrooms.html",
+        "type": "file",
+        "md5": "de6704e63a633124e8936f4489597856"
+    },
+    {
+        "path": "elevate-your-home-with-stylish-dining-and-living-tables.html",
+        "type": "file",
+        "md5": "0c4e89b17837afc02c855221b4c49a2a"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "8b44742d417d3242b44600fe73ff2690"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "4e6cf6bb92008c2d1805354e83f431c7"
+    },
+    {
+        "path": "how-to-choose-a-stylish-centerpiece-for-modern-homes.html",
+        "type": "file",
+        "md5": "0991ce3d6f2be60d2ab937589922f63e"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "ad316d537634476dce8c6a8fe0254f16"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/332797be0c94fabf5a4578bb201010ca.png",
+        "type": "file",
+        "md5": "fe5d090092b9910925b71dd6ff1ac452"
+    },
+    {
+        "path": "/media/posts/10/natural-wooden-log-dining-table-chair-near-it-interior-design-modern-living-dining-room_1040322-3007.avif",
+        "type": "file",
+        "md5": "1374a099881478242df098a0aae0d5d6"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/332797be0c94fabf5a4578bb201010ca-md.png",
+        "type": "file",
+        "md5": "303bd2f053de63752370525e5ddde132"
+    },
+    {
+        "path": "/media/posts/10/responsive/332797be0c94fabf5a4578bb201010ca-sm.png",
+        "type": "file",
+        "md5": "613c2e5adacef83028782c3fadea920a"
+    },
+    {
+        "path": "/media/posts/10/responsive/332797be0c94fabf5a4578bb201010ca-xs.png",
+        "type": "file",
+        "md5": "4b79e7aa403eade74564c828c5aa9eb7"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/332797be0c94fabf5a4578bb201010ca.png",
+        "type": "file",
+        "md5": "fe5d090092b9910925b71dd6ff1ac452"
+    },
+    {
+        "path": "/media/posts/11/natural-wooden-log-dining-table-chair-near-it-interior-design-modern-living-dining-room_1040322-3007.avif",
+        "type": "file",
+        "md5": "1374a099881478242df098a0aae0d5d6"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/332797be0c94fabf5a4578bb201010ca-md.png",
+        "type": "file",
+        "md5": "303bd2f053de63752370525e5ddde132"
+    },
+    {
+        "path": "/media/posts/11/responsive/332797be0c94fabf5a4578bb201010ca-sm.png",
+        "type": "file",
+        "md5": "613c2e5adacef83028782c3fadea920a"
+    },
+    {
+        "path": "/media/posts/11/responsive/332797be0c94fabf5a4578bb201010ca-xs.png",
+        "type": "file",
+        "md5": "4b79e7aa403eade74564c828c5aa9eb7"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___.jpg",
+        "type": "file",
+        "md5": "3bc8382d20bfca0ba3db57cf945f5d55"
+    },
+    {
+        "path": "/media/posts/12/OIP-10.jfif",
+        "type": "file",
+        "md5": "3ddba47809182353f67c5bc938955f48"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___-lg.jpg",
+        "type": "file",
+        "md5": "8d1c39198153bf2ccf2d4a610ce16de4"
+    },
+    {
+        "path": "/media/posts/12/responsive/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___-md.jpg",
+        "type": "file",
+        "md5": "88879836a901964fb797c8659ef6003f"
+    },
+    {
+        "path": "/media/posts/12/responsive/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___-sm.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/12/responsive/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___-xl.jpg",
+        "type": "file",
+        "md5": "8d1c39198153bf2ccf2d4a610ce16de4"
+    },
+    {
+        "path": "/media/posts/12/responsive/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___-xs.jpg",
+        "type": "file",
+        "md5": "bb4e7a92b1d43f62f39856d608608c2b"
+    },
+    {
+        "path": "/media/posts/12/responsive/91475e68-8300-46cb-8161-753b9cb82553.__CR0019401200_PT0_SX970_V1___-xxl.jpg",
+        "type": "file",
+        "md5": "8d1c39198153bf2ccf2d4a610ce16de4"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/OIP-11.jfif",
+        "type": "file",
+        "md5": "a5339415214533545c37c1ae349f3f8b"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/Upholstery-Fabric-Guide-Choosing-The-Right-Fabric-md.jpeg",
+        "type": "file",
+        "md5": "d9f148d044d09f1e1eaa6cef0052af72"
+    },
+    {
+        "path": "/media/posts/13/responsive/Upholstery-Fabric-Guide-Choosing-The-Right-Fabric-sm.jpeg",
+        "type": "file",
+        "md5": "3aaa6b72c58a82ed3a7babf38aa43d68"
+    },
+    {
+        "path": "/media/posts/13/responsive/Upholstery-Fabric-Guide-Choosing-The-Right-Fabric-xs.jpeg",
+        "type": "file",
+        "md5": "3c73a581aa032be11cc504f8546faaa7"
+    },
+    {
+        "path": "/media/posts/13/Upholstery-Fabric-Guide-Choosing-The-Right-Fabric.jpeg",
+        "type": "file",
+        "md5": "16e38182707e2ce5359a42d504aba283"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/OIP-12.jfif",
+        "type": "file",
+        "md5": "202cb0a125408a0078a710003563e9df"
+    },
+    {
+        "path": "/media/posts/14/OIP-13.jfif",
+        "type": "file",
+        "md5": "e3821c0cbe66cd9d0fa5702d0ac1499c"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/OIP-14.jfif",
+        "type": "file",
+        "md5": "98909f43a8dc4155beb9a17fd6904642"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/smart-furniture-2025-lg.jpg",
+        "type": "file",
+        "md5": "5e01f17a33cb2894acd9e7a0edd82882"
+    },
+    {
+        "path": "/media/posts/15/responsive/smart-furniture-2025-md.jpg",
+        "type": "file",
+        "md5": "c14d009defd1337ddec58814b6d7a0dd"
+    },
+    {
+        "path": "/media/posts/15/responsive/smart-furniture-2025-sm.jpg",
+        "type": "file",
+        "md5": "c5bb4d9f9b5b3470479ca2731bef9cb0"
+    },
+    {
+        "path": "/media/posts/15/responsive/smart-furniture-2025-xl.jpg",
+        "type": "file",
+        "md5": "5e01f17a33cb2894acd9e7a0edd82882"
+    },
+    {
+        "path": "/media/posts/15/responsive/smart-furniture-2025-xs.jpg",
+        "type": "file",
+        "md5": "276c82a363cadb6cc983a7286ed41f73"
+    },
+    {
+        "path": "/media/posts/15/responsive/smart-furniture-2025-xxl.jpg",
+        "type": "file",
+        "md5": "5e01f17a33cb2894acd9e7a0edd82882"
+    },
+    {
+        "path": "/media/posts/15/smart-furniture-2025.jpg",
+        "type": "file",
+        "md5": "ee5688445e8644a8649fee05db844d68"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/OIP-1.jfif",
+        "type": "file",
+        "md5": "79f6c8cfd16df9ce59b0f7a0d9bd5ed4"
+    },
+    {
+        "path": "/media/posts/4/OIP.jfif",
+        "type": "file",
+        "md5": "ab96e4bb171f962a0549b53e2339dd7c"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/OIP-2.jfif",
+        "type": "file",
+        "md5": "73947c9d46a9365f86184d8315e84d7c"
+    },
+    {
+        "path": "/media/posts/5/OIP-3.jfif",
+        "type": "file",
+        "md5": "c722dd173bc795f7c12faad8451396d9"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/OIP-4.jfif",
+        "type": "file",
+        "md5": "bf0be9cc38a6108ea50c97be8b92d58f"
+    },
+    {
+        "path": "/media/posts/6/OIP-5.jfif",
+        "type": "file",
+        "md5": "4cfde825c42ff246f0bebf2cc5a482c7"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/OIP-6.jfif",
+        "type": "file",
+        "md5": "4e5a300ef8c7e2e9b02e2a0dc6d6a7ae"
+    },
+    {
+        "path": "/media/posts/7/OIP-7-2.jfif",
+        "type": "file",
+        "md5": "b93d9bf2ba4c265c7a07d592473b3d87"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/4a70f405a23e39c21903499e2f00a47e.jpg",
+        "type": "file",
+        "md5": "da316fe550c33296c45135d1aa2bd5cb"
+    },
+    {
+        "path": "/media/posts/8/OIP-8.jfif",
+        "type": "file",
+        "md5": "31a1b73bd84e620b48340e116c22d47e"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/4a70f405a23e39c21903499e2f00a47e-lg.jpg",
+        "type": "file",
+        "md5": "71c7ee861ab6e887a4bd5f030b8ca6c5"
+    },
+    {
+        "path": "/media/posts/8/responsive/4a70f405a23e39c21903499e2f00a47e-md.jpg",
+        "type": "file",
+        "md5": "71c7ee861ab6e887a4bd5f030b8ca6c5"
+    },
+    {
+        "path": "/media/posts/8/responsive/4a70f405a23e39c21903499e2f00a47e-sm.jpg",
+        "type": "file",
+        "md5": "faba58858b537bb39ce9e04325b1cd01"
+    },
+    {
+        "path": "/media/posts/8/responsive/4a70f405a23e39c21903499e2f00a47e-xl.jpg",
+        "type": "file",
+        "md5": "71c7ee861ab6e887a4bd5f030b8ca6c5"
+    },
+    {
+        "path": "/media/posts/8/responsive/4a70f405a23e39c21903499e2f00a47e-xs.jpg",
+        "type": "file",
+        "md5": "0479e2c7077d94b169cad38e608a9be5"
+    },
+    {
+        "path": "/media/posts/8/responsive/4a70f405a23e39c21903499e2f00a47e-xxl.jpg",
+        "type": "file",
+        "md5": "71c7ee861ab6e887a4bd5f030b8ca6c5"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/dream_modern_bedroom-2.webp",
+        "type": "file",
+        "md5": "8498082564dc336b48b9a6d547e193a3"
+    },
+    {
+        "path": "/media/posts/9/dream_modern_bedroom.webp",
+        "type": "file",
+        "md5": "8498082564dc336b48b9a6d547e193a3"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-2-md.webp",
+        "type": "file",
+        "md5": "a1121508770bb5862715228653ef4461"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-2-sm.webp",
+        "type": "file",
+        "md5": "93a7613fbae7a3bc0cef71b0006bdf8d"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-2-xs.webp",
+        "type": "file",
+        "md5": "3327b7189c96b2ccd1635e9f9846e348"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-lg.webp",
+        "type": "file",
+        "md5": "13f93ff5f0dc4e96e86f6540d2fc0cad"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-md.webp",
+        "type": "file",
+        "md5": "a1121508770bb5862715228653ef4461"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-sm.webp",
+        "type": "file",
+        "md5": "93a7613fbae7a3bc0cef71b0006bdf8d"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-xl.webp",
+        "type": "file",
+        "md5": "13f93ff5f0dc4e96e86f6540d2fc0cad"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-xs.webp",
+        "type": "file",
+        "md5": "3327b7189c96b2ccd1635e9f9846e348"
+    },
+    {
+        "path": "/media/posts/9/responsive/dream_modern_bedroom-xxl.webp",
+        "type": "file",
+        "md5": "13f93ff5f0dc4e96e86f6540d2fc0cad"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Modern-Living-Hub-Logo.png",
+        "type": "file",
+        "md5": "31f320ae44d2c13282207687f39ac999"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Modern-Living-Hub-Logo-xs.png",
+        "type": "file",
+        "md5": "667ca28047220f69f11661d8064ef985"
+    },
+    {
+        "path": "natural-beauty-and-functionality-for-dining-and-living-spaces.html",
+        "type": "file",
+        "md5": "2a6d4a9f111814e6211eee672aef01bc"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "23dbed28aaf09ffac1315a90f1e59143"
+    },
+    {
+        "path": "personalized-furniture-for-modern-living.html",
+        "type": "file",
+        "md5": "f56d97373dfba2620cbffbbb983c6f34"
+    },
+    {
+        "path": "privacy-policy.html",
+        "type": "file",
+        "md5": "3c05c89c7d9d08bbe794150b337d7c57"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "79a4076d6e4ad14d6a5cb8383a886931"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "53f838a1880bc74d197c9ed4796c7057"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "smart-and-stylish-choices-for-contemporary-living-rooms.html",
+        "type": "file",
+        "md5": "68bf8145811e0d120e6e025de15d5a80"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/coffee-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/coffee-tables/index.html",
+        "type": "file",
+        "md5": "9f11461517fd398f1970d067c432488f"
+    },
+    {
+        "path": "tags/contemporary-bedrooms",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/contemporary-bedrooms/index.html",
+        "type": "file",
+        "md5": "94c5792b69b2aea94028b1227a00b593"
+    },
+    {
+        "path": "tags/dining-and-living-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/dining-and-living-tables/index.html",
+        "type": "file",
+        "md5": "5d301e13033c5b65d138249cf553ec68"
+    },
+    {
+        "path": "tags/extendable-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/extendable-tables/index.html",
+        "type": "file",
+        "md5": "173d4dfb2f68fd11f3f3ab29aab41275"
+    },
+    {
+        "path": "tags/fabric-guides",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/fabric-guides/index.html",
+        "type": "file",
+        "md5": "2a6489b0ec65b2f204534905d8a661ba"
+    },
+    {
+        "path": "tags/furniture-buying-tips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/furniture-buying-tips/index.html",
+        "type": "file",
+        "md5": "97e28d30416bad19fb26e9436e1ee4fb"
+    },
+    {
+        "path": "tags/glass-top-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/glass-top-sets/index.html",
+        "type": "file",
+        "md5": "fd0ec68884223c712e1b92357044a862"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "03f81db9c53abe68f58db10e14af0474"
+    },
+    {
+        "path": "tags/minimalist-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/minimalist-sets/index.html",
+        "type": "file",
+        "md5": "4c544814fa2c69a479312a8d7f0f44aa"
+    },
+    {
+        "path": "tags/modern-furniture-and-couches",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/modern-furniture-and-couches/index.html",
+        "type": "file",
+        "md5": "20d4d8aa5346e9ccc36a7470c5f2fc3a"
+    },
+    {
+        "path": "tags/modular-units",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/modular-units/index.html",
+        "type": "file",
+        "md5": "cc6d502b81f920ebf1cf26a59eb1c09c"
+    },
+    {
+        "path": "tags/nightstands",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/nightstands/index.html",
+        "type": "file",
+        "md5": "3f1bf4133a9138ce2ae5c26c80908298"
+    },
+    {
+        "path": "tags/platform-beds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/platform-beds/index.html",
+        "type": "file",
+        "md5": "4f1ecdddbdc4c6d22ed0ae927ed3567e"
+    },
+    {
+        "path": "tags/space-planning-tips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/space-planning-tips/index.html",
+        "type": "file",
+        "md5": "827fd036a21dc4923c59d6521528d920"
+    },
+    {
+        "path": "tags/upholstered-headboards",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/upholstered-headboards/index.html",
+        "type": "file",
+        "md5": "a44b24a22f1641231e3d94eab366a5ec"
+    },
+    {
+        "path": "tags/wood-types",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wood-types/index.html",
+        "type": "file",
+        "md5": "5db829021d881242253b4fb66917da12"
+    },
+    {
+        "path": "tags/wooden-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wooden-tables/index.html",
+        "type": "file",
+        "md5": "199c8a6d65fffa1ccfcecd69390debe4"
+    },
+    {
+        "path": "versatile-furniture-for-modern-dining-and-living-spaces.html",
+        "type": "file",
+        "md5": "72dc30dff09d9150b4375f766c933cca"
+    }
+]
