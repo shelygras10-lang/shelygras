@@ -2,37 +2,37 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "28dd7c577f40a182f67005e71e1b4393"
+        "md5": "c5936d311833f38baf0d125938594f3f"
     },
     {
         "path": "a-complete-guide-to-choosing-furniture-upholstery.html",
         "type": "file",
-        "md5": "5adeaacb715d4602bbda45aef9540611"
+        "md5": "ed27fb8387508f9d19f958975c51b89f"
     },
     {
         "path": "a-defining-feature-of-contemporary-bedrooms.html",
         "type": "file",
-        "md5": "d8f7050842dc0f1cd9797cbdfade9e61"
+        "md5": "575564083d34dace9f55ca2d00169186"
     },
     {
         "path": "a-practical-guide-to-selecting-quality-wood-furniture.html",
         "type": "file",
-        "md5": "6e917605c80820341191e3f09451ccb3"
+        "md5": "6ded962d17bd28d77daa3a0d55ca1c6e"
     },
     {
         "path": "a-smart-guide-to-choosing-furniture-for-every-room.html",
         "type": "file",
-        "md5": "193573ca2e859b07e722acd909a949e0"
+        "md5": "279419ee20941a180064a187971f826f"
     },
     {
         "path": "about-us.html",
         "type": "file",
-        "md5": "647b1dae04468c682be8a36e246c1465"
+        "md5": "cd9d4b0e32ff8f2ff3d93b4176176180"
     },
     {
         "path": "an-essential-category-of-contemporary-bedrooms.html",
         "type": "file",
-        "md5": "11c433fee947a98c9e3d8358dfe4e547"
+        "md5": "edc7d327337f1cd2f147df7c1113f848"
     },
     {
         "path": "assets",
@@ -167,7 +167,7 @@
     {
         "path": "/authors/oliver-reed/index.html",
         "type": "file",
-        "md5": "9718ffa84442ac25b7dfafb472e914f4"
+        "md5": "67f9c6f69a43dcf46ee7dc065688fe47"
     },
     {
         "path": "authors/oliver-reed/page",
@@ -182,42 +182,52 @@
     {
         "path": "/authors/oliver-reed/page/2/index.html",
         "type": "file",
-        "md5": "b36856c461b3732795e306f59beb6dc6"
+        "md5": "b12ec342601a29df51ca00b47844962d"
+    },
+    {
+        "path": "authors/oliver-reed/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oliver-reed/page/3/index.html",
+        "type": "file",
+        "md5": "9efa084d851a82d951cba65c559622b5"
     },
     {
         "path": "contact-us.html",
         "type": "file",
-        "md5": "49608b40885734029792006b7f9cdfcf"
+        "md5": "5fee454a49d7ad4a6a6621a1e149cd81"
     },
     {
         "path": "creating-a-refined-look-in-contemporary-bedrooms.html",
         "type": "file",
-        "md5": "de6704e63a633124e8936f4489597856"
+        "md5": "6f5cabb230eaac695ab56707f16a9dc5"
     },
     {
         "path": "elevate-your-home-with-stylish-dining-and-living-tables.html",
         "type": "file",
-        "md5": "0c4e89b17837afc02c855221b4c49a2a"
+        "md5": "8c276551d585e437b492eaec48c29e1f"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8b44742d417d3242b44600fe73ff2690"
+        "md5": "3050065915b59bfa564a0af85d894430"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4e6cf6bb92008c2d1805354e83f431c7"
+        "md5": "fcd4fdf0adbb00239232d3bdbd651da0"
     },
     {
         "path": "how-to-choose-a-stylish-centerpiece-for-modern-homes.html",
         "type": "file",
-        "md5": "0991ce3d6f2be60d2ab937589922f63e"
+        "md5": "9660c8368ff463ca9f7b2906a5f8d4d2"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ad316d537634476dce8c6a8fe0254f16"
+        "md5": "e35ec5e7f7a57dd3dd3372e26ce23768"
     },
     {
         "path": "media",
@@ -450,6 +460,21 @@
         "md5": "ee5688445e8644a8649fee05db844d68"
     },
     {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/OIP-15.jfif",
+        "type": "file",
+        "md5": "725e5e446a230bf216b70855f687dc75"
+    },
+    {
+        "path": "/media/posts/16/OIP-16.jfif",
+        "type": "file",
+        "md5": "9c30018db9acad7a4ba905c9408410b4"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -647,7 +672,7 @@
     {
         "path": "natural-beauty-and-functionality-for-dining-and-living-spaces.html",
         "type": "file",
-        "md5": "2a6d4a9f111814e6211eee672aef01bc"
+        "md5": "cbaed7b9bc002518064a44d6f853a89e"
     },
     {
         "path": "page",
@@ -662,17 +687,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "23dbed28aaf09ffac1315a90f1e59143"
+        "md5": "51e725d5a972d2b63fde0c1c222fadc2"
     },
     {
         "path": "personalized-furniture-for-modern-living.html",
         "type": "file",
-        "md5": "f56d97373dfba2620cbffbbb983c6f34"
+        "md5": "87f887d66ed7c96e7daa5d5373b72d62"
     },
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "3c05c89c7d9d08bbe794150b337d7c57"
+        "md5": "02baec9ef777fe991964a2e23b08ece3"
     },
     {
         "path": "robots.txt",
@@ -682,7 +707,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "53f838a1880bc74d197c9ed4796c7057"
+        "md5": "eae05f2f8cbf65272cad06c8fb633295"
     },
     {
         "path": "sitemap.xsl",
@@ -690,9 +715,14 @@
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
+        "path": "smart-and-flexible-furniture-ideas-for-modern-homes.html",
+        "type": "file",
+        "md5": "e9be30f0860a4757dc0a8d37de229e3c"
+    },
+    {
         "path": "smart-and-stylish-choices-for-contemporary-living-rooms.html",
         "type": "file",
-        "md5": "68bf8145811e0d120e6e025de15d5a80"
+        "md5": "a380a14b95d76f89b0d2729fba880bf2"
     },
     {
         "path": "tags",
@@ -707,7 +737,7 @@
     {
         "path": "/tags/coffee-tables/index.html",
         "type": "file",
-        "md5": "9f11461517fd398f1970d067c432488f"
+        "md5": "d9642977fc3133717f4dda0cdb67becf"
     },
     {
         "path": "tags/contemporary-bedrooms",
@@ -717,7 +747,7 @@
     {
         "path": "/tags/contemporary-bedrooms/index.html",
         "type": "file",
-        "md5": "94c5792b69b2aea94028b1227a00b593"
+        "md5": "8f59c31df13e1c28913e72870fd98825"
     },
     {
         "path": "tags/dining-and-living-tables",
@@ -727,7 +757,7 @@
     {
         "path": "/tags/dining-and-living-tables/index.html",
         "type": "file",
-        "md5": "5d301e13033c5b65d138249cf553ec68"
+        "md5": "e4b06294c977095830a6fcf7e73f51da"
     },
     {
         "path": "tags/extendable-tables",
@@ -737,7 +767,7 @@
     {
         "path": "/tags/extendable-tables/index.html",
         "type": "file",
-        "md5": "173d4dfb2f68fd11f3f3ab29aab41275"
+        "md5": "2814930b658f3bdcc04d708ba9c9775f"
     },
     {
         "path": "tags/fabric-guides",
@@ -747,7 +777,7 @@
     {
         "path": "/tags/fabric-guides/index.html",
         "type": "file",
-        "md5": "2a6489b0ec65b2f204534905d8a661ba"
+        "md5": "f1c35dd95ffc92a1a7b4e53b0e240c73"
     },
     {
         "path": "tags/furniture-buying-tips",
@@ -757,7 +787,7 @@
     {
         "path": "/tags/furniture-buying-tips/index.html",
         "type": "file",
-        "md5": "97e28d30416bad19fb26e9436e1ee4fb"
+        "md5": "5526f65d58ffd9b022ffa13d853a9a9f"
     },
     {
         "path": "tags/glass-top-sets",
@@ -767,12 +797,12 @@
     {
         "path": "/tags/glass-top-sets/index.html",
         "type": "file",
-        "md5": "fd0ec68884223c712e1b92357044a862"
+        "md5": "9d9e7d474ca07716e58d40cafd69ff87"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "03f81db9c53abe68f58db10e14af0474"
+        "md5": "867b77186bc9c8a24b7a7a5d14d25510"
     },
     {
         "path": "tags/minimalist-sets",
@@ -782,7 +812,7 @@
     {
         "path": "/tags/minimalist-sets/index.html",
         "type": "file",
-        "md5": "4c544814fa2c69a479312a8d7f0f44aa"
+        "md5": "7e1734cb324b455bac6d3e49fb255b4b"
     },
     {
         "path": "tags/modern-furniture-and-couches",
@@ -792,7 +822,7 @@
     {
         "path": "/tags/modern-furniture-and-couches/index.html",
         "type": "file",
-        "md5": "20d4d8aa5346e9ccc36a7470c5f2fc3a"
+        "md5": "e4224d2dfc9ea313558a3d8c8dced657"
     },
     {
         "path": "tags/modular-units",
@@ -802,7 +832,7 @@
     {
         "path": "/tags/modular-units/index.html",
         "type": "file",
-        "md5": "cc6d502b81f920ebf1cf26a59eb1c09c"
+        "md5": "1d63801580073ad05e23758097d43635"
     },
     {
         "path": "tags/nightstands",
@@ -812,7 +842,7 @@
     {
         "path": "/tags/nightstands/index.html",
         "type": "file",
-        "md5": "3f1bf4133a9138ce2ae5c26c80908298"
+        "md5": "322658af46333ae7e352b38b81efd03b"
     },
     {
         "path": "tags/platform-beds",
@@ -822,7 +852,7 @@
     {
         "path": "/tags/platform-beds/index.html",
         "type": "file",
-        "md5": "4f1ecdddbdc4c6d22ed0ae927ed3567e"
+        "md5": "d6fb90367c9869e65608c010123c5310"
     },
     {
         "path": "tags/space-planning-tips",
@@ -832,7 +862,7 @@
     {
         "path": "/tags/space-planning-tips/index.html",
         "type": "file",
-        "md5": "827fd036a21dc4923c59d6521528d920"
+        "md5": "fa78b17c5deb0f4c09aab60614cc2a21"
     },
     {
         "path": "tags/upholstered-headboards",
@@ -842,7 +872,7 @@
     {
         "path": "/tags/upholstered-headboards/index.html",
         "type": "file",
-        "md5": "a44b24a22f1641231e3d94eab366a5ec"
+        "md5": "c38da35be89dc1316a7ca6ee43987e7d"
     },
     {
         "path": "tags/wood-types",
@@ -852,7 +882,7 @@
     {
         "path": "/tags/wood-types/index.html",
         "type": "file",
-        "md5": "5db829021d881242253b4fb66917da12"
+        "md5": "d664d605a764bca531a1dc9c571667f1"
     },
     {
         "path": "tags/wooden-tables",
@@ -862,11 +892,11 @@
     {
         "path": "/tags/wooden-tables/index.html",
         "type": "file",
-        "md5": "199c8a6d65fffa1ccfcecd69390debe4"
+        "md5": "543f1b07140c09131bb16b9f956a388f"
     },
     {
         "path": "versatile-furniture-for-modern-dining-and-living-spaces.html",
         "type": "file",
-        "md5": "72dc30dff09d9150b4375f766c933cca"
+        "md5": "b9e5cb2a570a1e4a943eb0d700cf7b0f"
     }
 ]
